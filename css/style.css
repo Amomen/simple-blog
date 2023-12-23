@@ -1,0 +1,43 @@
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+}
+.momen {
+  color: orange;
+}
+section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 80%;
+}
+.hire-btn {
+  margin-top: 30px;
+}
+.hire {
+  text-decoration: none;
+  color: white;
+  background-color: orange;
+  padding: 10px 40px;
+  border: 1px solid orangered;
+  border-radius: 5px;
+  background-image: linear-gradient(orange, tomato);
+  font-weight: 700;
+}
+.top-banner {
+  background-image: url(../images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.dream-big {
+  background-image: url(../images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
